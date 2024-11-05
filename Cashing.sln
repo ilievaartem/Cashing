@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashing", "Cashing\Cashing.csproj", "{4030C7CB-6058-499B-B47F-F5CB2A3DAC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{915F55F9-E842-48F2-A77C-C21DE0160791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4030C7CB-6058-499B-B47F-F5CB2A3DAC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4030C7CB-6058-499B-B47F-F5CB2A3DAC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4030C7CB-6058-499B-B47F-F5CB2A3DAC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4030C7CB-6058-499B-B47F-F5CB2A3DAC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915F55F9-E842-48F2-A77C-C21DE0160791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915F55F9-E842-48F2-A77C-C21DE0160791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915F55F9-E842-48F2-A77C-C21DE0160791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915F55F9-E842-48F2-A77C-C21DE0160791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
